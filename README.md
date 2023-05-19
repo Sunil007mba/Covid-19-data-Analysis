@@ -1,4 +1,4 @@
-# covid-19-project
+# Covid 19 Data Analysis
 Exploring Dataset with SQL
 looking at total cases vs total deaths
 shows liklihood of dying if you Contract covid in country
